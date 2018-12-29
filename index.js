@@ -17,7 +17,7 @@ bot.on("ready", async() => {
 
 bot.on("message", (msg) => {
     if(msg.channel == "reports"){
-        console.log("new report");
+        
     }
 });
 
