@@ -1,0 +1,16 @@
+{
+  "name": "wilsonatorbot",
+  "version": "0.0.1",
+  "description": "Bot for wilsonators discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Williams",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "get-json": "^1.0.1"
+  }
+}
